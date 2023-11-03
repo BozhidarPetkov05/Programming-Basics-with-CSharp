@@ -1,0 +1,14 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P05. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\P05. Godzilla vs. Kong.genruntimeconfig.cache

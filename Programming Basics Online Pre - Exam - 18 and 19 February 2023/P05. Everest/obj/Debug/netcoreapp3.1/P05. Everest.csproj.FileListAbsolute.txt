@@ -1,0 +1,14 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P05. Everest\bin\Debug\netcoreapp3.1\P05. Everest.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P05. Everest\bin\Debug\netcoreapp3.1\P05. Everest.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P05. Everest\bin\Debug\netcoreapp3.1\P05. Everest.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P05. Everest\bin\Debug\netcoreapp3.1\P05. Everest.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P05. Everest\bin\Debug\netcoreapp3.1\P05. Everest.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P05. Everest\bin\Debug\netcoreapp3.1\P05. Everest.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P05. Everest\obj\Debug\netcoreapp3.1\P05. Everest.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P05. Everest\obj\Debug\netcoreapp3.1\P05. Everest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P05. Everest\obj\Debug\netcoreapp3.1\P05. Everest.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P05. Everest\obj\Debug\netcoreapp3.1\P05. Everest.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P05. Everest\obj\Debug\netcoreapp3.1\P05. Everest.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P05. Everest\obj\Debug\netcoreapp3.1\P05. Everest.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P05. Everest\obj\Debug\netcoreapp3.1\P05. Everest.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P05. Everest\obj\Debug\netcoreapp3.1\P05. Everest.genruntimeconfig.cache

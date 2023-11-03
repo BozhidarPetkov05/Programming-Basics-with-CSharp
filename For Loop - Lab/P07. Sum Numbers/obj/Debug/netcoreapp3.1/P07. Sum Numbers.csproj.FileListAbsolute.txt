@@ -1,0 +1,14 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P07. Sum Numbers\bin\Debug\netcoreapp3.1\P07. Sum Numbers.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P07. Sum Numbers\bin\Debug\netcoreapp3.1\P07. Sum Numbers.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P07. Sum Numbers\bin\Debug\netcoreapp3.1\P07. Sum Numbers.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P07. Sum Numbers\bin\Debug\netcoreapp3.1\P07. Sum Numbers.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P07. Sum Numbers\bin\Debug\netcoreapp3.1\P07. Sum Numbers.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P07. Sum Numbers\bin\Debug\netcoreapp3.1\P07. Sum Numbers.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P07. Sum Numbers\obj\Debug\netcoreapp3.1\P07. Sum Numbers.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P07. Sum Numbers\obj\Debug\netcoreapp3.1\P07. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P07. Sum Numbers\obj\Debug\netcoreapp3.1\P07. Sum Numbers.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P07. Sum Numbers\obj\Debug\netcoreapp3.1\P07. Sum Numbers.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P07. Sum Numbers\obj\Debug\netcoreapp3.1\P07. Sum Numbers.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P07. Sum Numbers\obj\Debug\netcoreapp3.1\P07. Sum Numbers.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P07. Sum Numbers\obj\Debug\netcoreapp3.1\P07. Sum Numbers.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P07. Sum Numbers\obj\Debug\netcoreapp3.1\P07. Sum Numbers.genruntimeconfig.cache

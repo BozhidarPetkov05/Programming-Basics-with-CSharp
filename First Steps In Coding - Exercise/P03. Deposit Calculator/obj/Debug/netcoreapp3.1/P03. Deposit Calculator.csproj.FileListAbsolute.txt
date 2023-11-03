@@ -1,0 +1,14 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P03. Deposit Calculator\bin\Debug\netcoreapp3.1\P03. Deposit Calculator.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P03. Deposit Calculator\bin\Debug\netcoreapp3.1\P03. Deposit Calculator.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P03. Deposit Calculator\bin\Debug\netcoreapp3.1\P03. Deposit Calculator.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P03. Deposit Calculator\bin\Debug\netcoreapp3.1\P03. Deposit Calculator.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P03. Deposit Calculator\bin\Debug\netcoreapp3.1\P03. Deposit Calculator.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P03. Deposit Calculator\bin\Debug\netcoreapp3.1\P03. Deposit Calculator.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P03. Deposit Calculator\obj\Debug\netcoreapp3.1\P03. Deposit Calculator.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P03. Deposit Calculator\obj\Debug\netcoreapp3.1\P03. Deposit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P03. Deposit Calculator\obj\Debug\netcoreapp3.1\P03. Deposit Calculator.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P03. Deposit Calculator\obj\Debug\netcoreapp3.1\P03. Deposit Calculator.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P03. Deposit Calculator\obj\Debug\netcoreapp3.1\P03. Deposit Calculator.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P03. Deposit Calculator\obj\Debug\netcoreapp3.1\P03. Deposit Calculator.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P03. Deposit Calculator\obj\Debug\netcoreapp3.1\P03. Deposit Calculator.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P03. Deposit Calculator\obj\Debug\netcoreapp3.1\P03. Deposit Calculator.genruntimeconfig.cache

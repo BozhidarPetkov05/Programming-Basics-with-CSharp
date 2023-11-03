@@ -1,0 +1,14 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Lab\P01. Read Text\bin\Debug\netcoreapp3.1\P01. Read Text.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Lab\P01. Read Text\bin\Debug\netcoreapp3.1\P01. Read Text.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Lab\P01. Read Text\bin\Debug\netcoreapp3.1\P01. Read Text.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Lab\P01. Read Text\bin\Debug\netcoreapp3.1\P01. Read Text.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Lab\P01. Read Text\bin\Debug\netcoreapp3.1\P01. Read Text.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Lab\P01. Read Text\bin\Debug\netcoreapp3.1\P01. Read Text.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Lab\P01. Read Text\obj\Debug\netcoreapp3.1\P01. Read Text.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Lab\P01. Read Text\obj\Debug\netcoreapp3.1\P01. Read Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Lab\P01. Read Text\obj\Debug\netcoreapp3.1\P01. Read Text.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Lab\P01. Read Text\obj\Debug\netcoreapp3.1\P01. Read Text.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Lab\P01. Read Text\obj\Debug\netcoreapp3.1\P01. Read Text.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Lab\P01. Read Text\obj\Debug\netcoreapp3.1\P01. Read Text.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Lab\P01. Read Text\obj\Debug\netcoreapp3.1\P01. Read Text.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Lab\P01. Read Text\obj\Debug\netcoreapp3.1\P01. Read Text.genruntimeconfig.cache

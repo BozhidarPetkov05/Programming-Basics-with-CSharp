@@ -1,0 +1,13 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P07. Food Delivery\bin\Debug\netcoreapp3.1\P07. Food Delivery.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P07. Food Delivery\bin\Debug\netcoreapp3.1\P07. Food Delivery.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P07. Food Delivery\bin\Debug\netcoreapp3.1\P07. Food Delivery.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P07. Food Delivery\bin\Debug\netcoreapp3.1\P07. Food Delivery.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P07. Food Delivery\bin\Debug\netcoreapp3.1\P07. Food Delivery.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P07. Food Delivery\bin\Debug\netcoreapp3.1\P07. Food Delivery.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P07. Food Delivery\obj\Debug\netcoreapp3.1\P07. Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P07. Food Delivery\obj\Debug\netcoreapp3.1\P07. Food Delivery.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P07. Food Delivery\obj\Debug\netcoreapp3.1\P07. Food Delivery.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P07. Food Delivery\obj\Debug\netcoreapp3.1\P07. Food Delivery.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P07. Food Delivery\obj\Debug\netcoreapp3.1\P07. Food Delivery.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P07. Food Delivery\obj\Debug\netcoreapp3.1\P07. Food Delivery.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P07. Food Delivery\obj\Debug\netcoreapp3.1\P07. Food Delivery.genruntimeconfig.cache

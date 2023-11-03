@@ -1,0 +1,13 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P06. Repainting\bin\Debug\netcoreapp3.1\P06. Repainting.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P06. Repainting\bin\Debug\netcoreapp3.1\P06. Repainting.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P06. Repainting\bin\Debug\netcoreapp3.1\P06. Repainting.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P06. Repainting\bin\Debug\netcoreapp3.1\P06. Repainting.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P06. Repainting\bin\Debug\netcoreapp3.1\P06. Repainting.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P06. Repainting\bin\Debug\netcoreapp3.1\P06. Repainting.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P06. Repainting\obj\Debug\netcoreapp3.1\P06. Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P06. Repainting\obj\Debug\netcoreapp3.1\P06. Repainting.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P06. Repainting\obj\Debug\netcoreapp3.1\P06. Repainting.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P06. Repainting\obj\Debug\netcoreapp3.1\P06. Repainting.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P06. Repainting\obj\Debug\netcoreapp3.1\P06. Repainting.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P06. Repainting\obj\Debug\netcoreapp3.1\P06. Repainting.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P06. Repainting\obj\Debug\netcoreapp3.1\P06. Repainting.genruntimeconfig.cache

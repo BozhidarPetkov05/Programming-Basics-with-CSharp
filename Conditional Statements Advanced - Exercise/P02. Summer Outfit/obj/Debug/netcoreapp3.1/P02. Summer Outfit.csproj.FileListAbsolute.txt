@@ -1,0 +1,13 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P02. Summer Outfit\bin\Debug\netcoreapp3.1\P02. Summer Outfit.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P02. Summer Outfit\bin\Debug\netcoreapp3.1\P02. Summer Outfit.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P02. Summer Outfit\bin\Debug\netcoreapp3.1\P02. Summer Outfit.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P02. Summer Outfit\bin\Debug\netcoreapp3.1\P02. Summer Outfit.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P02. Summer Outfit\bin\Debug\netcoreapp3.1\P02. Summer Outfit.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P02. Summer Outfit\bin\Debug\netcoreapp3.1\P02. Summer Outfit.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P02. Summer Outfit\obj\Debug\netcoreapp3.1\P02. Summer Outfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P02. Summer Outfit\obj\Debug\netcoreapp3.1\P02. Summer Outfit.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P02. Summer Outfit\obj\Debug\netcoreapp3.1\P02. Summer Outfit.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P02. Summer Outfit\obj\Debug\netcoreapp3.1\P02. Summer Outfit.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P02. Summer Outfit\obj\Debug\netcoreapp3.1\P02. Summer Outfit.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P02. Summer Outfit\obj\Debug\netcoreapp3.1\P02. Summer Outfit.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P02. Summer Outfit\obj\Debug\netcoreapp3.1\P02. Summer Outfit.genruntimeconfig.cache

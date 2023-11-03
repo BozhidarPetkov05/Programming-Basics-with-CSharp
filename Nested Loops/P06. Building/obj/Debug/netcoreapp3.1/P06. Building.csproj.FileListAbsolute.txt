@@ -1,0 +1,13 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P06. Building\bin\Debug\netcoreapp3.1\P06. Building.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P06. Building\bin\Debug\netcoreapp3.1\P06. Building.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P06. Building\bin\Debug\netcoreapp3.1\P06. Building.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P06. Building\bin\Debug\netcoreapp3.1\P06. Building.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P06. Building\bin\Debug\netcoreapp3.1\P06. Building.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P06. Building\bin\Debug\netcoreapp3.1\P06. Building.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P06. Building\obj\Debug\netcoreapp3.1\P06. Building.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P06. Building\obj\Debug\netcoreapp3.1\P06. Building.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P06. Building\obj\Debug\netcoreapp3.1\P06. Building.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P06. Building\obj\Debug\netcoreapp3.1\P06. Building.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P06. Building\obj\Debug\netcoreapp3.1\P06. Building.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P06. Building\obj\Debug\netcoreapp3.1\P06. Building.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P06. Building\obj\Debug\netcoreapp3.1\P06. Building.genruntimeconfig.cache

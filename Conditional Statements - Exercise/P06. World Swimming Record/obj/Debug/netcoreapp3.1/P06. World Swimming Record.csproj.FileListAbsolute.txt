@@ -1,0 +1,14 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P06. World Swimming Record\bin\Debug\netcoreapp3.1\P06. World Swimming Record.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P06. World Swimming Record\bin\Debug\netcoreapp3.1\P06. World Swimming Record.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P06. World Swimming Record\bin\Debug\netcoreapp3.1\P06. World Swimming Record.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P06. World Swimming Record\bin\Debug\netcoreapp3.1\P06. World Swimming Record.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P06. World Swimming Record\bin\Debug\netcoreapp3.1\P06. World Swimming Record.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P06. World Swimming Record\bin\Debug\netcoreapp3.1\P06. World Swimming Record.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P06. World Swimming Record\obj\Debug\netcoreapp3.1\P06. World Swimming Record.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P06. World Swimming Record\obj\Debug\netcoreapp3.1\P06. World Swimming Record.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P06. World Swimming Record\obj\Debug\netcoreapp3.1\P06. World Swimming Record.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P06. World Swimming Record\obj\Debug\netcoreapp3.1\P06. World Swimming Record.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P06. World Swimming Record\obj\Debug\netcoreapp3.1\P06. World Swimming Record.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P06. World Swimming Record\obj\Debug\netcoreapp3.1\P06. World Swimming Record.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P06. World Swimming Record\obj\Debug\netcoreapp3.1\P06. World Swimming Record.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements - Exercise\P06. World Swimming Record\obj\Debug\netcoreapp3.1\P06. World Swimming Record.genruntimeconfig.cache

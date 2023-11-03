@@ -1,0 +1,14 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P08. Tennis Ranklist\bin\Debug\netcoreapp3.1\P08. Tennis Ranklist.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P08. Tennis Ranklist\bin\Debug\netcoreapp3.1\P08. Tennis Ranklist.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P08. Tennis Ranklist\bin\Debug\netcoreapp3.1\P08. Tennis Ranklist.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P08. Tennis Ranklist\bin\Debug\netcoreapp3.1\P08. Tennis Ranklist.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P08. Tennis Ranklist\bin\Debug\netcoreapp3.1\P08. Tennis Ranklist.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P08. Tennis Ranklist\bin\Debug\netcoreapp3.1\P08. Tennis Ranklist.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P08. Tennis Ranklist\obj\Debug\netcoreapp3.1\P08. Tennis Ranklist.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P08. Tennis Ranklist\obj\Debug\netcoreapp3.1\P08. Tennis Ranklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P08. Tennis Ranklist\obj\Debug\netcoreapp3.1\P08. Tennis Ranklist.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P08. Tennis Ranklist\obj\Debug\netcoreapp3.1\P08. Tennis Ranklist.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P08. Tennis Ranklist\obj\Debug\netcoreapp3.1\P08. Tennis Ranklist.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P08. Tennis Ranklist\obj\Debug\netcoreapp3.1\P08. Tennis Ranklist.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P08. Tennis Ranklist\obj\Debug\netcoreapp3.1\P08. Tennis Ranklist.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P08. Tennis Ranklist\obj\Debug\netcoreapp3.1\P08. Tennis Ranklist.genruntimeconfig.cache

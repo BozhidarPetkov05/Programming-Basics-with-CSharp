@@ -1,0 +1,14 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P04. Workout\bin\Debug\netcoreapp3.1\P04. Workout.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P04. Workout\bin\Debug\netcoreapp3.1\P04. Workout.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P04. Workout\bin\Debug\netcoreapp3.1\P04. Workout.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P04. Workout\bin\Debug\netcoreapp3.1\P04. Workout.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P04. Workout\bin\Debug\netcoreapp3.1\P04. Workout.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P04. Workout\bin\Debug\netcoreapp3.1\P04. Workout.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P04. Workout\obj\Debug\netcoreapp3.1\P04. Workout.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P04. Workout\obj\Debug\netcoreapp3.1\P04. Workout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P04. Workout\obj\Debug\netcoreapp3.1\P04. Workout.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P04. Workout\obj\Debug\netcoreapp3.1\P04. Workout.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P04. Workout\obj\Debug\netcoreapp3.1\P04. Workout.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P04. Workout\obj\Debug\netcoreapp3.1\P04. Workout.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P04. Workout\obj\Debug\netcoreapp3.1\P04. Workout.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Pre - Exam - 18 and 19 February 2023\P04. Workout\obj\Debug\netcoreapp3.1\P04. Workout.genruntimeconfig.cache

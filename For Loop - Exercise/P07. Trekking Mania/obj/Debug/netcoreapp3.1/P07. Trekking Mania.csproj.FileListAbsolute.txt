@@ -1,0 +1,13 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P07. Trekking Mania\bin\Debug\netcoreapp3.1\P07. Trekking Mania.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P07. Trekking Mania\bin\Debug\netcoreapp3.1\P07. Trekking Mania.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P07. Trekking Mania\bin\Debug\netcoreapp3.1\P07. Trekking Mania.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P07. Trekking Mania\bin\Debug\netcoreapp3.1\P07. Trekking Mania.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P07. Trekking Mania\bin\Debug\netcoreapp3.1\P07. Trekking Mania.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P07. Trekking Mania\bin\Debug\netcoreapp3.1\P07. Trekking Mania.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P07. Trekking Mania\obj\Debug\netcoreapp3.1\P07. Trekking Mania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P07. Trekking Mania\obj\Debug\netcoreapp3.1\P07. Trekking Mania.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P07. Trekking Mania\obj\Debug\netcoreapp3.1\P07. Trekking Mania.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P07. Trekking Mania\obj\Debug\netcoreapp3.1\P07. Trekking Mania.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P07. Trekking Mania\obj\Debug\netcoreapp3.1\P07. Trekking Mania.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P07. Trekking Mania\obj\Debug\netcoreapp3.1\P07. Trekking Mania.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P07. Trekking Mania\obj\Debug\netcoreapp3.1\P07. Trekking Mania.genruntimeconfig.cache

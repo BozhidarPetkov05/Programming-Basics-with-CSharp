@@ -1,0 +1,14 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P05. Training Lab\bin\Debug\netcoreapp3.1\P05. Training Lab.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P05. Training Lab\bin\Debug\netcoreapp3.1\P05. Training Lab.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P05. Training Lab\bin\Debug\netcoreapp3.1\P05. Training Lab.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P05. Training Lab\bin\Debug\netcoreapp3.1\P05. Training Lab.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P05. Training Lab\bin\Debug\netcoreapp3.1\P05. Training Lab.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P05. Training Lab\bin\Debug\netcoreapp3.1\P05. Training Lab.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P05. Training Lab\obj\Debug\netcoreapp3.1\P05. Training Lab.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P05. Training Lab\obj\Debug\netcoreapp3.1\P05. Training Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P05. Training Lab\obj\Debug\netcoreapp3.1\P05. Training Lab.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P05. Training Lab\obj\Debug\netcoreapp3.1\P05. Training Lab.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P05. Training Lab\obj\Debug\netcoreapp3.1\P05. Training Lab.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P05. Training Lab\obj\Debug\netcoreapp3.1\P05. Training Lab.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P05. Training Lab\obj\Debug\netcoreapp3.1\P05. Training Lab.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P05. Training Lab\obj\Debug\netcoreapp3.1\P05. Training Lab.genruntimeconfig.cache

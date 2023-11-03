@@ -1,0 +1,14 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P06. TournOfChristmas\bin\Debug\netcoreapp3.1\P06. TournOfChristmas.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P06. TournOfChristmas\bin\Debug\netcoreapp3.1\P06. TournOfChristmas.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P06. TournOfChristmas\bin\Debug\netcoreapp3.1\P06. TournOfChristmas.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P06. TournOfChristmas\bin\Debug\netcoreapp3.1\P06. TournOfChristmas.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P06. TournOfChristmas\bin\Debug\netcoreapp3.1\P06. TournOfChristmas.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P06. TournOfChristmas\bin\Debug\netcoreapp3.1\P06. TournOfChristmas.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P06. TournOfChristmas\obj\Debug\netcoreapp3.1\P06. TournOfChristmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P06. TournOfChristmas\obj\Debug\netcoreapp3.1\P06. TournOfChristmas.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P06. TournOfChristmas\obj\Debug\netcoreapp3.1\P06. TournOfChristmas.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P06. TournOfChristmas\obj\Debug\netcoreapp3.1\P06. TournOfChristmas.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P06. TournOfChristmas\obj\Debug\netcoreapp3.1\P06. TournOfChristmas.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P06. TournOfChristmas\obj\Debug\netcoreapp3.1\P06. TournOfChristmas.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P06. TournOfChristmas\obj\Debug\netcoreapp3.1\P06. TournOfChristmas.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P06. TournOfChristmas\obj\Debug\netcoreapp3.1\P06. TournOfChristmas.csproj.AssemblyReference.cache

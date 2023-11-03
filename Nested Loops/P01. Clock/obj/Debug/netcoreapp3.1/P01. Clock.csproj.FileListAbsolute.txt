@@ -1,0 +1,14 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P01. Clock\bin\Debug\netcoreapp3.1\P01. Clock.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P01. Clock\bin\Debug\netcoreapp3.1\P01. Clock.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P01. Clock\bin\Debug\netcoreapp3.1\P01. Clock.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P01. Clock\bin\Debug\netcoreapp3.1\P01. Clock.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P01. Clock\bin\Debug\netcoreapp3.1\P01. Clock.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P01. Clock\bin\Debug\netcoreapp3.1\P01. Clock.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P01. Clock\obj\Debug\netcoreapp3.1\P01. Clock.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P01. Clock\obj\Debug\netcoreapp3.1\P01. Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P01. Clock\obj\Debug\netcoreapp3.1\P01. Clock.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P01. Clock\obj\Debug\netcoreapp3.1\P01. Clock.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P01. Clock\obj\Debug\netcoreapp3.1\P01. Clock.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P01. Clock\obj\Debug\netcoreapp3.1\P01. Clock.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P01. Clock\obj\Debug\netcoreapp3.1\P01. Clock.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Nested Loops\P01. Clock\obj\Debug\netcoreapp3.1\P01. Clock.genruntimeconfig.cache

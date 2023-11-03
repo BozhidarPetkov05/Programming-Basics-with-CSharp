@@ -1,0 +1,14 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P01. Cinema\bin\Debug\netcoreapp3.1\P01. Cinema.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P01. Cinema\bin\Debug\netcoreapp3.1\P01. Cinema.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P01. Cinema\bin\Debug\netcoreapp3.1\P01. Cinema.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P01. Cinema\bin\Debug\netcoreapp3.1\P01. Cinema.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P01. Cinema\bin\Debug\netcoreapp3.1\P01. Cinema.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P01. Cinema\bin\Debug\netcoreapp3.1\P01. Cinema.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P01. Cinema\obj\Debug\netcoreapp3.1\P01. Cinema.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P01. Cinema\obj\Debug\netcoreapp3.1\P01. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P01. Cinema\obj\Debug\netcoreapp3.1\P01. Cinema.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P01. Cinema\obj\Debug\netcoreapp3.1\P01. Cinema.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P01. Cinema\obj\Debug\netcoreapp3.1\P01. Cinema.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P01. Cinema\obj\Debug\netcoreapp3.1\P01. Cinema.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P01. Cinema\obj\Debug\netcoreapp3.1\P01. Cinema.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Conditional Statements Advanced - Exercise\P01. Cinema\obj\Debug\netcoreapp3.1\P01. Cinema.genruntimeconfig.cache

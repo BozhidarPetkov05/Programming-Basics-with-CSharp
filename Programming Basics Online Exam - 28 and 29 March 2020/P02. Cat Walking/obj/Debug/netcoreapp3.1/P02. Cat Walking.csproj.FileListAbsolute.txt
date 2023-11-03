@@ -1,0 +1,14 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P02. Cat Walking\bin\Debug\netcoreapp3.1\P02. Cat Walking.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P02. Cat Walking\bin\Debug\netcoreapp3.1\P02. Cat Walking.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P02. Cat Walking\bin\Debug\netcoreapp3.1\P02. Cat Walking.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P02. Cat Walking\bin\Debug\netcoreapp3.1\P02. Cat Walking.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P02. Cat Walking\bin\Debug\netcoreapp3.1\P02. Cat Walking.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P02. Cat Walking\bin\Debug\netcoreapp3.1\P02. Cat Walking.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P02. Cat Walking\obj\Debug\netcoreapp3.1\P02. Cat Walking.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P02. Cat Walking\obj\Debug\netcoreapp3.1\P02. Cat Walking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P02. Cat Walking\obj\Debug\netcoreapp3.1\P02. Cat Walking.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P02. Cat Walking\obj\Debug\netcoreapp3.1\P02. Cat Walking.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P02. Cat Walking\obj\Debug\netcoreapp3.1\P02. Cat Walking.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P02. Cat Walking\obj\Debug\netcoreapp3.1\P02. Cat Walking.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P02. Cat Walking\obj\Debug\netcoreapp3.1\P02. Cat Walking.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P02. Cat Walking\obj\Debug\netcoreapp3.1\P02. Cat Walking.genruntimeconfig.cache

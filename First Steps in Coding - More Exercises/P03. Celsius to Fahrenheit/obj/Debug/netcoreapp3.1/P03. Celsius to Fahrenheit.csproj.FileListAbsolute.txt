@@ -1,0 +1,14 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P03. Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\P03. Celsius to Fahrenheit.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P03. Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\P03. Celsius to Fahrenheit.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P03. Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\P03. Celsius to Fahrenheit.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P03. Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\P03. Celsius to Fahrenheit.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P03. Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\P03. Celsius to Fahrenheit.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P03. Celsius to Fahrenheit\bin\Debug\netcoreapp3.1\P03. Celsius to Fahrenheit.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\P03. Celsius to Fahrenheit.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\P03. Celsius to Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\P03. Celsius to Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\P03. Celsius to Fahrenheit.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\P03. Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\P03. Celsius to Fahrenheit.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\P03. Celsius to Fahrenheit.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P03. Celsius to Fahrenheit\obj\Debug\netcoreapp3.1\P03. Celsius to Fahrenheit.genruntimeconfig.cache

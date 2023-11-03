@@ -1,0 +1,14 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P03. Histogram\bin\Debug\netcoreapp3.1\P03. Histogram.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P03. Histogram\bin\Debug\netcoreapp3.1\P03. Histogram.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P03. Histogram\bin\Debug\netcoreapp3.1\P03. Histogram.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P03. Histogram\bin\Debug\netcoreapp3.1\P03. Histogram.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P03. Histogram\bin\Debug\netcoreapp3.1\P03. Histogram.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P03. Histogram\bin\Debug\netcoreapp3.1\P03. Histogram.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P03. Histogram\obj\Debug\netcoreapp3.1\P03. Histogram.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P03. Histogram\obj\Debug\netcoreapp3.1\P03. Histogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P03. Histogram\obj\Debug\netcoreapp3.1\P03. Histogram.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P03. Histogram\obj\Debug\netcoreapp3.1\P03. Histogram.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P03. Histogram\obj\Debug\netcoreapp3.1\P03. Histogram.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P03. Histogram\obj\Debug\netcoreapp3.1\P03. Histogram.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P03. Histogram\obj\Debug\netcoreapp3.1\P03. Histogram.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P03. Histogram\obj\Debug\netcoreapp3.1\P03. Histogram.genruntimeconfig.cache

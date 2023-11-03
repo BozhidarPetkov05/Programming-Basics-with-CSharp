@@ -1,0 +1,14 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P05. Care of Puppy\bin\Debug\netcoreapp3.1\P05. Care of Puppy.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P05. Care of Puppy\bin\Debug\netcoreapp3.1\P05. Care of Puppy.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P05. Care of Puppy\bin\Debug\netcoreapp3.1\P05. Care of Puppy.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P05. Care of Puppy\bin\Debug\netcoreapp3.1\P05. Care of Puppy.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P05. Care of Puppy\bin\Debug\netcoreapp3.1\P05. Care of Puppy.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P05. Care of Puppy\bin\Debug\netcoreapp3.1\P05. Care of Puppy.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P05. Care of Puppy\obj\Debug\netcoreapp3.1\P05. Care of Puppy.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P05. Care of Puppy\obj\Debug\netcoreapp3.1\P05. Care of Puppy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P05. Care of Puppy\obj\Debug\netcoreapp3.1\P05. Care of Puppy.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P05. Care of Puppy\obj\Debug\netcoreapp3.1\P05. Care of Puppy.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P05. Care of Puppy\obj\Debug\netcoreapp3.1\P05. Care of Puppy.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P05. Care of Puppy\obj\Debug\netcoreapp3.1\P05. Care of Puppy.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P05. Care of Puppy\obj\Debug\netcoreapp3.1\P05. Care of Puppy.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P05. Care of Puppy\obj\Debug\netcoreapp3.1\P05. Care of Puppy.genruntimeconfig.cache

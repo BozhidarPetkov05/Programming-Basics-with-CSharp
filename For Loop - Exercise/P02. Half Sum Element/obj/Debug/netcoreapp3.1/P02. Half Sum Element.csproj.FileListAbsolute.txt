@@ -1,0 +1,14 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P02. Half Sum Element\bin\Debug\netcoreapp3.1\P02. Half Sum Element.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P02. Half Sum Element\bin\Debug\netcoreapp3.1\P02. Half Sum Element.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P02. Half Sum Element\bin\Debug\netcoreapp3.1\P02. Half Sum Element.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P02. Half Sum Element\bin\Debug\netcoreapp3.1\P02. Half Sum Element.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P02. Half Sum Element\bin\Debug\netcoreapp3.1\P02. Half Sum Element.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P02. Half Sum Element\bin\Debug\netcoreapp3.1\P02. Half Sum Element.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P02. Half Sum Element\obj\Debug\netcoreapp3.1\P02. Half Sum Element.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P02. Half Sum Element\obj\Debug\netcoreapp3.1\P02. Half Sum Element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P02. Half Sum Element\obj\Debug\netcoreapp3.1\P02. Half Sum Element.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P02. Half Sum Element\obj\Debug\netcoreapp3.1\P02. Half Sum Element.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P02. Half Sum Element\obj\Debug\netcoreapp3.1\P02. Half Sum Element.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P02. Half Sum Element\obj\Debug\netcoreapp3.1\P02. Half Sum Element.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P02. Half Sum Element\obj\Debug\netcoreapp3.1\P02. Half Sum Element.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Exercise\P02. Half Sum Element\obj\Debug\netcoreapp3.1\P02. Half Sum Element.genruntimeconfig.cache

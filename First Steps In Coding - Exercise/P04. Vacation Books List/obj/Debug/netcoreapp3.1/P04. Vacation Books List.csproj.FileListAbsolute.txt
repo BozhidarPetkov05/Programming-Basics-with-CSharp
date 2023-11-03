@@ -1,0 +1,14 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P04. Vacation Books List\bin\Debug\netcoreapp3.1\P04. Vacation Books List.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P04. Vacation Books List\bin\Debug\netcoreapp3.1\P04. Vacation Books List.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P04. Vacation Books List\bin\Debug\netcoreapp3.1\P04. Vacation Books List.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P04. Vacation Books List\bin\Debug\netcoreapp3.1\P04. Vacation Books List.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P04. Vacation Books List\bin\Debug\netcoreapp3.1\P04. Vacation Books List.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P04. Vacation Books List\bin\Debug\netcoreapp3.1\P04. Vacation Books List.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P04. Vacation Books List\obj\Debug\netcoreapp3.1\P04. Vacation Books List.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P04. Vacation Books List\obj\Debug\netcoreapp3.1\P04. Vacation Books List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P04. Vacation Books List\obj\Debug\netcoreapp3.1\P04. Vacation Books List.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P04. Vacation Books List\obj\Debug\netcoreapp3.1\P04. Vacation Books List.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P04. Vacation Books List\obj\Debug\netcoreapp3.1\P04. Vacation Books List.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P04. Vacation Books List\obj\Debug\netcoreapp3.1\P04. Vacation Books List.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P04. Vacation Books List\obj\Debug\netcoreapp3.1\P04. Vacation Books List.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps In Coding - Exercise\P04. Vacation Books List\obj\Debug\netcoreapp3.1\P04. Vacation Books List.genruntimeconfig.cache

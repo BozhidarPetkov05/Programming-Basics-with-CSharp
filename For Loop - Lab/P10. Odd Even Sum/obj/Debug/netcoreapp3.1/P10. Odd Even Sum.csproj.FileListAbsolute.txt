@@ -1,0 +1,14 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P10. Odd Even Sum\bin\Debug\netcoreapp3.1\P10. Odd Even Sum.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P10. Odd Even Sum\bin\Debug\netcoreapp3.1\P10. Odd Even Sum.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P10. Odd Even Sum\bin\Debug\netcoreapp3.1\P10. Odd Even Sum.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P10. Odd Even Sum\bin\Debug\netcoreapp3.1\P10. Odd Even Sum.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P10. Odd Even Sum\bin\Debug\netcoreapp3.1\P10. Odd Even Sum.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P10. Odd Even Sum\bin\Debug\netcoreapp3.1\P10. Odd Even Sum.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P10. Odd Even Sum\obj\Debug\netcoreapp3.1\P10. Odd Even Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P10. Odd Even Sum\obj\Debug\netcoreapp3.1\P10. Odd Even Sum.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P10. Odd Even Sum\obj\Debug\netcoreapp3.1\P10. Odd Even Sum.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P10. Odd Even Sum\obj\Debug\netcoreapp3.1\P10. Odd Even Sum.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P10. Odd Even Sum\obj\Debug\netcoreapp3.1\P10. Odd Even Sum.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P10. Odd Even Sum\obj\Debug\netcoreapp3.1\P10. Odd Even Sum.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P10. Odd Even Sum\obj\Debug\netcoreapp3.1\P10. Odd Even Sum.genruntimeconfig.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\For Loop - Lab\P10. Odd Even Sum\obj\Debug\netcoreapp3.1\P10. Odd Even Sum.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P06. Fishland\bin\Debug\netcoreapp3.1\P06. Fishland.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P06. Fishland\bin\Debug\netcoreapp3.1\P06. Fishland.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P06. Fishland\bin\Debug\netcoreapp3.1\P06. Fishland.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P06. Fishland\bin\Debug\netcoreapp3.1\P06. Fishland.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P06. Fishland\bin\Debug\netcoreapp3.1\P06. Fishland.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P06. Fishland\bin\Debug\netcoreapp3.1\P06. Fishland.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P06. Fishland\obj\Debug\netcoreapp3.1\P06. Fishland.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P06. Fishland\obj\Debug\netcoreapp3.1\P06. Fishland.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P06. Fishland\obj\Debug\netcoreapp3.1\P06. Fishland.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P06. Fishland\obj\Debug\netcoreapp3.1\P06. Fishland.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P06. Fishland\obj\Debug\netcoreapp3.1\P06. Fishland.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P06. Fishland\obj\Debug\netcoreapp3.1\P06. Fishland.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\First Steps in Coding - More Exercises\P06. Fishland\obj\Debug\netcoreapp3.1\P06. Fishland.genruntimeconfig.cache

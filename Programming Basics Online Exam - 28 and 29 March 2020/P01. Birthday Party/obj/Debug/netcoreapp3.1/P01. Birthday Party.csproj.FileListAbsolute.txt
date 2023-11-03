@@ -1,0 +1,14 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P01. Birthday Party\bin\Debug\netcoreapp3.1\P01. Birthday Party.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P01. Birthday Party\bin\Debug\netcoreapp3.1\P01. Birthday Party.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P01. Birthday Party\bin\Debug\netcoreapp3.1\P01. Birthday Party.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P01. Birthday Party\bin\Debug\netcoreapp3.1\P01. Birthday Party.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P01. Birthday Party\bin\Debug\netcoreapp3.1\P01. Birthday Party.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P01. Birthday Party\bin\Debug\netcoreapp3.1\P01. Birthday Party.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P01. Birthday Party\obj\Debug\netcoreapp3.1\P01. Birthday Party.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P01. Birthday Party\obj\Debug\netcoreapp3.1\P01. Birthday Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P01. Birthday Party\obj\Debug\netcoreapp3.1\P01. Birthday Party.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P01. Birthday Party\obj\Debug\netcoreapp3.1\P01. Birthday Party.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P01. Birthday Party\obj\Debug\netcoreapp3.1\P01. Birthday Party.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P01. Birthday Party\obj\Debug\netcoreapp3.1\P01. Birthday Party.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P01. Birthday Party\obj\Debug\netcoreapp3.1\P01. Birthday Party.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\Programming Basics Online Exam - 28 and 29 March 2020\P01. Birthday Party\obj\Debug\netcoreapp3.1\P01. Birthday Party.genruntimeconfig.cache

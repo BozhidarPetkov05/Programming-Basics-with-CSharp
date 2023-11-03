@@ -1,0 +1,14 @@
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Exercise\P01. Old Books\bin\Debug\netcoreapp3.1\P01. Old Books.exe
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Exercise\P01. Old Books\bin\Debug\netcoreapp3.1\P01. Old Books.deps.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Exercise\P01. Old Books\bin\Debug\netcoreapp3.1\P01. Old Books.runtimeconfig.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Exercise\P01. Old Books\bin\Debug\netcoreapp3.1\P01. Old Books.runtimeconfig.dev.json
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Exercise\P01. Old Books\bin\Debug\netcoreapp3.1\P01. Old Books.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Exercise\P01. Old Books\bin\Debug\netcoreapp3.1\P01. Old Books.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Exercise\P01. Old Books\obj\Debug\netcoreapp3.1\P01. Old Books.csproj.AssemblyReference.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Exercise\P01. Old Books\obj\Debug\netcoreapp3.1\P01. Old Books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Exercise\P01. Old Books\obj\Debug\netcoreapp3.1\P01. Old Books.AssemblyInfoInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Exercise\P01. Old Books\obj\Debug\netcoreapp3.1\P01. Old Books.AssemblyInfo.cs
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Exercise\P01. Old Books\obj\Debug\netcoreapp3.1\P01. Old Books.csproj.CoreCompileInputs.cache
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Exercise\P01. Old Books\obj\Debug\netcoreapp3.1\P01. Old Books.dll
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Exercise\P01. Old Books\obj\Debug\netcoreapp3.1\P01. Old Books.pdb
+C:\Users\XidZ01\Desktop\SoftUni\Programming Basics With C#\While Loop - Exercise\P01. Old Books\obj\Debug\netcoreapp3.1\P01. Old Books.genruntimeconfig.cache
